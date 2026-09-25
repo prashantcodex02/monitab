@@ -1,0 +1,574 @@
+{
+  "sip-calculator": {
+    "primary": "SIP calculator",
+    "secondary": [
+      "SIP return calculator",
+      "monthly SIP calculator"
+    ],
+    "intent": "tool",
+    "country": "global"
+  },
+  "step-up-sip-calculator": {
+    "primary": "step up SIP calculator",
+    "secondary": [
+      "increasing SIP calculator"
+    ],
+    "intent": "tool",
+    "country": "global"
+  },
+  "lumpsum-calculator": {
+    "primary": "lumpsum calculator",
+    "secondary": [
+      "mutual fund lumpsum calculator"
+    ],
+    "intent": "tool",
+    "country": "global"
+  },
+  "compound-interest-calculator": {
+    "primary": "compound interest calculator",
+    "secondary": [
+      "compound interest formula"
+    ],
+    "intent": "tool",
+    "country": "global"
+  },
+  "cagr-calculator": {
+    "primary": "CAGR calculator",
+    "secondary": [
+      "CAGR formula"
+    ],
+    "intent": "tool",
+    "country": "global"
+  },
+  "roi-calculator": {
+    "primary": "ROI calculator",
+    "secondary": [
+      "return on investment calculator"
+    ],
+    "intent": "tool",
+    "country": "global"
+  },
+  "swp-calculator": {
+    "primary": "SWP calculator",
+    "secondary": [
+      "systematic withdrawal plan calculator"
+    ],
+    "intent": "tool",
+    "country": "global"
+  },
+  "fd-calculator": {
+    "primary": "FD calculator",
+    "secondary": [
+      "fixed deposit calculator"
+    ],
+    "intent": "tool",
+    "country": "global"
+  },
+  "rd-calculator": {
+    "primary": "RD calculator",
+    "secondary": [
+      "recurring deposit calculator"
+    ],
+    "intent": "tool",
+    "country": "global"
+  },
+  "ppf-calculator": {
+    "primary": "PPF calculator",
+    "secondary": [
+      "PPF maturity calculator"
+    ],
+    "intent": "tool",
+    "country": "india"
+  },
+  "nps-calculator": {
+    "primary": "NPS calculator",
+    "secondary": [
+      "NPS pension calculator"
+    ],
+    "intent": "tool",
+    "country": "india"
+  },
+  "epf-calculator": {
+    "primary": "EPF calculator",
+    "secondary": [
+      "PF calculator"
+    ],
+    "intent": "tool",
+    "country": "india"
+  },
+  "gratuity-calculator": {
+    "primary": "gratuity calculator",
+    "secondary": [
+      "gratuity calculation"
+    ],
+    "intent": "tool",
+    "country": "india"
+  },
+  "income-tax-calculator-india": {
+    "primary": "income tax calculator India",
+    "secondary": [
+      "tax calculator India"
+    ],
+    "intent": "tool",
+    "country": "india"
+  },
+  "salary-calculator-india": {
+    "primary": "salary calculator India",
+    "secondary": [
+      "in hand salary calculator"
+    ],
+    "intent": "tool",
+    "country": "india"
+  },
+  "hra-calculator": {
+    "primary": "HRA calculator",
+    "secondary": [
+      "HRA exemption calculator"
+    ],
+    "intent": "tool",
+    "country": "india"
+  },
+  "gst-calculator": {
+    "primary": "GST calculator",
+    "secondary": [
+      "GST calculation India"
+    ],
+    "intent": "tool",
+    "country": "india"
+  },
+  "capital-gains-tax-calculator-india": {
+    "primary": "capital gains tax calculator India",
+    "secondary": [
+      "LTCG calculator"
+    ],
+    "intent": "tool",
+    "country": "india"
+  },
+  "stcg-calculator-india": {
+    "primary": "STCG calculator India",
+    "secondary": [],
+    "intent": "tool",
+    "country": "india"
+  },
+  "ltcg-calculator-india": {
+    "primary": "LTCG calculator India",
+    "secondary": [],
+    "intent": "tool",
+    "country": "india"
+  },
+  "us-stock-tax-calculator-india": {
+    "primary": "US stocks tax India",
+    "secondary": [
+      "US stock tax calculator India"
+    ],
+    "intent": "tool",
+    "country": "india"
+  },
+  "home-loan-emi-calculator": {
+    "primary": "home loan EMI calculator",
+    "secondary": [
+      "mortgage EMI calculator"
+    ],
+    "intent": "tool",
+    "country": "global"
+  },
+  "personal-loan-emi-calculator": {
+    "primary": "personal loan EMI calculator",
+    "secondary": [],
+    "intent": "tool",
+    "country": "global"
+  },
+  "car-loan-emi-calculator": {
+    "primary": "car loan EMI calculator",
+    "secondary": [],
+    "intent": "tool",
+    "country": "global"
+  },
+  "education-loan-emi-calculator": {
+    "primary": "education loan EMI calculator",
+    "secondary": [],
+    "intent": "tool",
+    "country": "global"
+  },
+  "loan-eligibility-calculator": {
+    "primary": "loan eligibility calculator",
+    "secondary": [],
+    "intent": "tool",
+    "country": "global"
+  },
+  "loan-prepayment-calculator": {
+    "primary": "loan prepayment calculator",
+    "secondary": [],
+    "intent": "tool",
+    "country": "global"
+  },
+  "loan-balance-transfer-calculator": {
+    "primary": "loan balance transfer calculator",
+    "secondary": [],
+    "intent": "tool",
+    "country": "global"
+  },
+  "amortization-calculator": {
+    "primary": "amortization calculator",
+    "secondary": [
+      "loan amortization"
+    ],
+    "intent": "tool",
+    "country": "global"
+  },
+  "mortgage-calculator-usa": {
+    "primary": "mortgage calculator USA",
+    "secondary": [
+      "house payment calculator"
+    ],
+    "intent": "tool",
+    "country": "usa"
+  },
+  "mortgage-affordability-calculator-usa": {
+    "primary": "mortgage affordability calculator USA",
+    "secondary": [],
+    "intent": "tool",
+    "country": "usa"
+  },
+  "401k-calculator": {
+    "primary": "401k calculator",
+    "secondary": [
+      "401(k) retirement calculator"
+    ],
+    "intent": "tool",
+    "country": "usa"
+  },
+  "roth-ira-calculator": {
+    "primary": "Roth IRA calculator",
+    "secondary": [],
+    "intent": "tool",
+    "country": "usa"
+  },
+  "traditional-ira-calculator": {
+    "primary": "Traditional IRA calculator",
+    "secondary": [],
+    "intent": "tool",
+    "country": "usa"
+  },
+  "us-income-tax-calculator": {
+    "primary": "US income tax calculator",
+    "secondary": [
+      "federal tax calculator"
+    ],
+    "intent": "tool",
+    "country": "usa"
+  },
+  "us-salary-calculator": {
+    "primary": "salary calculator USA",
+    "secondary": [
+      "take home pay calculator"
+    ],
+    "intent": "tool",
+    "country": "usa"
+  },
+  "us-capital-gains-calculator": {
+    "primary": "capital gains tax calculator USA",
+    "secondary": [],
+    "intent": "tool",
+    "country": "usa"
+  },
+  "social-security-estimator": {
+    "primary": "Social Security calculator",
+    "secondary": [
+      "retirement income calculator"
+    ],
+    "intent": "tool",
+    "country": "usa"
+  },
+  "fire-calculator": {
+    "primary": "FIRE calculator",
+    "secondary": [
+      "financial independence calculator"
+    ],
+    "intent": "tool",
+    "country": "global"
+  },
+  "retirement-calculator": {
+    "primary": "retirement calculator",
+    "secondary": [
+      "retirement planning calculator"
+    ],
+    "intent": "tool",
+    "country": "global"
+  },
+  "inflation-calculator": {
+    "primary": "inflation calculator",
+    "secondary": [
+      "purchasing power calculator"
+    ],
+    "intent": "tool",
+    "country": "global"
+  },
+  "real-return-calculator": {
+    "primary": "real return calculator",
+    "secondary": [
+      "inflation adjusted return"
+    ],
+    "intent": "tool",
+    "country": "global"
+  },
+  "currency-converter": {
+    "primary": "currency converter",
+    "secondary": [
+      "exchange rate calculator"
+    ],
+    "intent": "tool",
+    "country": "global"
+  },
+  "net-worth-calculator": {
+    "primary": "net worth calculator",
+    "secondary": [],
+    "intent": "tool",
+    "country": "global"
+  },
+  "savings-goal-calculator": {
+    "primary": "savings goal calculator",
+    "secondary": [],
+    "intent": "tool",
+    "country": "global"
+  },
+  "emergency-fund-calculator": {
+    "primary": "emergency fund calculator",
+    "secondary": [],
+    "intent": "tool",
+    "country": "global"
+  },
+  "debt-payoff-calculator": {
+    "primary": "debt payoff calculator",
+    "secondary": [
+      "debt snowball calculator"
+    ],
+    "intent": "tool",
+    "country": "global"
+  },
+  "credit-card-payoff-calculator": {
+    "primary": "credit card payoff calculator",
+    "secondary": [],
+    "intent": "tool",
+    "country": "usa"
+  },
+  "rent-vs-buy-calculator": {
+    "primary": "rent vs buy calculator",
+    "secondary": [],
+    "intent": "tool",
+    "country": "global"
+  },
+  "home-affordability-calculator": {
+    "primary": "home affordability calculator",
+    "secondary": [],
+    "intent": "tool",
+    "country": "global"
+  },
+  "down-payment-calculator": {
+    "primary": "down payment calculator",
+    "secondary": [],
+    "intent": "tool",
+    "country": "global"
+  },
+  "simple-interest-calculator": {
+    "primary": "simple interest calculator",
+    "secondary": [],
+    "intent": "tool",
+    "country": "global"
+  },
+  "percentage-calculator": {
+    "primary": "percentage calculator",
+    "secondary": [],
+    "intent": "tool",
+    "country": "global"
+  },
+  "discount-calculator": {
+    "primary": "discount calculator",
+    "secondary": [],
+    "intent": "tool",
+    "country": "global"
+  },
+  "tip-calculator": {
+    "primary": "tip calculator",
+    "secondary": [
+      "bill split calculator"
+    ],
+    "intent": "tool",
+    "country": "global"
+  },
+  "break-even-calculator": {
+    "primary": "break even calculator",
+    "secondary": [],
+    "intent": "tool",
+    "country": "global"
+  },
+  "profit-margin-calculator": {
+    "primary": "profit margin calculator",
+    "secondary": [
+      "markup calculator"
+    ],
+    "intent": "tool",
+    "country": "global"
+  },
+  "freelance-rate-calculator": {
+    "primary": "freelance rate calculator",
+    "secondary": [],
+    "intent": "tool",
+    "country": "global"
+  },
+  "ad-revenue-calculator": {
+    "primary": "AdSense calculator",
+    "secondary": [
+      "ad revenue calculator"
+    ],
+    "intent": "tool",
+    "country": "global"
+  },
+  "influencer-income-calculator": {
+    "primary": "influencer income calculator",
+    "secondary": [],
+    "intent": "tool",
+    "country": "global"
+  },
+  "crypto-profit-calculator": {
+    "primary": "crypto profit calculator",
+    "secondary": [],
+    "intent": "tool",
+    "country": "global"
+  },
+  "compound-interest-monthly": {
+    "primary": "monthly compound interest calculator",
+    "secondary": [],
+    "intent": "tool",
+    "country": "global"
+  },
+  "future-value-calculator": {
+    "primary": "future value calculator",
+    "secondary": [],
+    "intent": "tool",
+    "country": "global"
+  },
+  "present-value-calculator": {
+    "primary": "present value calculator",
+    "secondary": [],
+    "intent": "tool",
+    "country": "global"
+  },
+  "xirr-calculator": {
+    "primary": "XIRR calculator",
+    "secondary": [
+      "XIRR return calculator"
+    ],
+    "intent": "tool",
+    "country": "global"
+  },
+  "sip-guide": {
+    "primary": "SIP calculator",
+    "secondary": [
+      "SIP investment",
+      "systematic investment plan"
+    ],
+    "intent": "guide",
+    "country": "global"
+  },
+  "home-loan-guide": {
+    "primary": "home loan EMI",
+    "secondary": [
+      "EMI calculator",
+      "home loan interest"
+    ],
+    "intent": "guide",
+    "country": "global"
+  },
+  "compound-interest-guide": {
+    "primary": "compound interest calculator",
+    "secondary": [
+      "compound interest formula",
+      "compounding"
+    ],
+    "intent": "guide",
+    "country": "global"
+  },
+  "retirement-guide": {
+    "primary": "retirement calculator",
+    "secondary": [
+      "FIRE calculator",
+      "retirement planning"
+    ],
+    "intent": "guide",
+    "country": "global"
+  },
+  "income-tax-india-guide": {
+    "primary": "income tax calculator India",
+    "secondary": [
+      "salary tax India",
+      "tax calculator"
+    ],
+    "intent": "guide",
+    "country": "global"
+  },
+  "401k-guide": {
+    "primary": "401k calculator",
+    "secondary": [
+      "401(k) retirement calculator",
+      "employer match"
+    ],
+    "intent": "guide",
+    "country": "global"
+  },
+  "mortgage-usa-guide": {
+    "primary": "mortgage calculator USA",
+    "secondary": [
+      "mortgage affordability",
+      "home payment"
+    ],
+    "intent": "guide",
+    "country": "global"
+  },
+  "capital-gains-india-guide": {
+    "primary": "capital gains tax India",
+    "secondary": [
+      "LTCG",
+      "STCG",
+      "tax calculator"
+    ],
+    "intent": "guide",
+    "country": "global"
+  },
+  "inflation-guide": {
+    "primary": "inflation calculator",
+    "secondary": [
+      "purchasing power",
+      "real return"
+    ],
+    "intent": "guide",
+    "country": "global"
+  },
+  "net-worth-guide": {
+    "primary": "net worth calculator",
+    "secondary": [
+      "personal net worth",
+      "assets liabilities"
+    ],
+    "intent": "guide",
+    "country": "global"
+  },
+  "freelance-rate-guide": {
+    "primary": "freelance rate calculator",
+    "secondary": [
+      "hourly rate",
+      "freelancer pricing"
+    ],
+    "intent": "guide",
+    "country": "global"
+  },
+  "adsense-revenue-guide": {
+    "primary": "AdSense revenue calculator",
+    "secondary": [
+      "website ad revenue",
+      "RPM"
+    ],
+    "intent": "guide",
+    "country": "global"
+  }
+}

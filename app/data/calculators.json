@@ -1,0 +1,457 @@
+[
+  {
+    "slug": "sip-calculator",
+    "title": "SIP Calculator",
+    "category": "investment",
+    "description": "Calculate SIP returns, invested amount and estimated wealth over time.",
+    "keywords": "SIP calculator, SIP return calculator, monthly SIP calculator"
+  },
+  {
+    "slug": "step-up-sip-calculator",
+    "title": "Step-Up SIP Calculator",
+    "category": "investment",
+    "description": "Estimate how annual SIP increases can accelerate long-term wealth creation.",
+    "keywords": "step up SIP calculator, increasing SIP calculator"
+  },
+  {
+    "slug": "lumpsum-calculator",
+    "title": "Lumpsum Investment Calculator",
+    "category": "investment",
+    "description": "Estimate the future value of a one-time investment using compound returns.",
+    "keywords": "lumpsum calculator, mutual fund lumpsum calculator"
+  },
+  {
+    "slug": "compound-interest-calculator",
+    "title": "Compound Interest Calculator",
+    "category": "investment",
+    "description": "See how principal, rate, time and compounding can grow money.",
+    "keywords": "compound interest calculator, compound interest formula"
+  },
+  {
+    "slug": "cagr-calculator",
+    "title": "CAGR Calculator",
+    "category": "investment",
+    "description": "Calculate compound annual growth rate between an initial and final value.",
+    "keywords": "CAGR calculator, CAGR formula"
+  },
+  {
+    "slug": "roi-calculator",
+    "title": "ROI Calculator",
+    "category": "investment",
+    "description": "Calculate return on investment and profit percentage.",
+    "keywords": "ROI calculator, return on investment calculator"
+  },
+  {
+    "slug": "swp-calculator",
+    "title": "SWP Calculator",
+    "category": "investment",
+    "description": "Estimate systematic withdrawal plan cash flows and remaining corpus.",
+    "keywords": "SWP calculator, systematic withdrawal plan calculator"
+  },
+  {
+    "slug": "fd-calculator",
+    "title": "Fixed Deposit Calculator",
+    "category": "investment",
+    "description": "Estimate FD maturity value and interest using principal, rate and tenure.",
+    "keywords": "FD calculator, fixed deposit calculator"
+  },
+  {
+    "slug": "rd-calculator",
+    "title": "Recurring Deposit Calculator",
+    "category": "investment",
+    "description": "Estimate recurring deposit maturity and interest.",
+    "keywords": "RD calculator, recurring deposit calculator"
+  },
+  {
+    "slug": "ppf-calculator",
+    "title": "PPF Calculator",
+    "category": "india",
+    "description": "Estimate PPF maturity using annual contributions, rate and tenure.",
+    "keywords": "PPF calculator, PPF maturity calculator"
+  },
+  {
+    "slug": "nps-calculator",
+    "title": "NPS Calculator",
+    "category": "india",
+    "description": "Estimate NPS corpus and retirement income from contributions.",
+    "keywords": "NPS calculator, NPS pension calculator"
+  },
+  {
+    "slug": "epf-calculator",
+    "title": "EPF Calculator",
+    "category": "india",
+    "description": "Estimate EPF retirement corpus from employee contributions and interest.",
+    "keywords": "EPF calculator, PF calculator"
+  },
+  {
+    "slug": "gratuity-calculator",
+    "title": "Gratuity Calculator",
+    "category": "india",
+    "description": "Estimate gratuity based on salary and completed years of service.",
+    "keywords": "gratuity calculator, gratuity calculation"
+  },
+  {
+    "slug": "income-tax-calculator-india",
+    "title": "Income Tax Calculator India",
+    "category": "india",
+    "description": "Estimate Indian income tax under selected assumptions and compare regimes.",
+    "keywords": "income tax calculator India, tax calculator India"
+  },
+  {
+    "slug": "salary-calculator-india",
+    "title": "Salary Calculator India",
+    "category": "india",
+    "description": "Estimate take-home salary from CTC, deductions and assumptions.",
+    "keywords": "salary calculator India, in hand salary calculator"
+  },
+  {
+    "slug": "hra-calculator",
+    "title": "HRA Calculator",
+    "category": "india",
+    "description": "Estimate HRA exemption using salary, rent and city assumptions.",
+    "keywords": "HRA calculator, HRA exemption calculator"
+  },
+  {
+    "slug": "gst-calculator",
+    "title": "GST Calculator India",
+    "category": "india",
+    "description": "Calculate GST-inclusive and GST-exclusive prices.",
+    "keywords": "GST calculator, GST calculation India"
+  },
+  {
+    "slug": "capital-gains-tax-calculator-india",
+    "title": "Capital Gains Tax Calculator India",
+    "category": "india",
+    "description": "Estimate capital gains tax scenarios for Indian investors.",
+    "keywords": "capital gains tax calculator India, LTCG calculator"
+  },
+  {
+    "slug": "stcg-calculator-india",
+    "title": "STCG Calculator India",
+    "category": "india",
+    "description": "Estimate short-term capital gains tax for selected Indian investment scenarios.",
+    "keywords": "STCG calculator India"
+  },
+  {
+    "slug": "ltcg-calculator-india",
+    "title": "LTCG Calculator India",
+    "category": "india",
+    "description": "Estimate long-term capital gains tax using configurable assumptions.",
+    "keywords": "LTCG calculator India"
+  },
+  {
+    "slug": "us-stock-tax-calculator-india",
+    "title": "US Stock Tax Calculator for Indians",
+    "category": "india",
+    "description": "Explore an educational estimate of taxes on US stock gains for Indian residents.",
+    "keywords": "US stocks tax India, US stock tax calculator India"
+  },
+  {
+    "slug": "home-loan-emi-calculator",
+    "title": "Home Loan EMI Calculator",
+    "category": "loans",
+    "description": "Calculate monthly home-loan EMI, total interest and repayment.",
+    "keywords": "home loan EMI calculator, mortgage EMI calculator"
+  },
+  {
+    "slug": "personal-loan-emi-calculator",
+    "title": "Personal Loan EMI Calculator",
+    "category": "loans",
+    "description": "Calculate personal-loan EMI and total interest.",
+    "keywords": "personal loan EMI calculator"
+  },
+  {
+    "slug": "car-loan-emi-calculator",
+    "title": "Car Loan EMI Calculator",
+    "category": "loans",
+    "description": "Calculate car-loan EMI and total repayment.",
+    "keywords": "car loan EMI calculator"
+  },
+  {
+    "slug": "education-loan-emi-calculator",
+    "title": "Education Loan EMI Calculator",
+    "category": "loans",
+    "description": "Estimate education-loan EMI and total interest.",
+    "keywords": "education loan EMI calculator"
+  },
+  {
+    "slug": "loan-eligibility-calculator",
+    "title": "Loan Eligibility Calculator",
+    "category": "loans",
+    "description": "Estimate a potential loan amount using income, obligations and assumptions.",
+    "keywords": "loan eligibility calculator"
+  },
+  {
+    "slug": "loan-prepayment-calculator",
+    "title": "Loan Prepayment Calculator",
+    "category": "loans",
+    "description": "Estimate interest savings from making a loan prepayment.",
+    "keywords": "loan prepayment calculator"
+  },
+  {
+    "slug": "loan-balance-transfer-calculator",
+    "title": "Loan Balance Transfer Calculator",
+    "category": "loans",
+    "description": "Compare remaining interest before and after a balance transfer.",
+    "keywords": "loan balance transfer calculator"
+  },
+  {
+    "slug": "amortization-calculator",
+    "title": "Loan Amortization Calculator",
+    "category": "loans",
+    "description": "Generate an amortization schedule showing principal and interest.",
+    "keywords": "amortization calculator, loan amortization"
+  },
+  {
+    "slug": "mortgage-calculator-usa",
+    "title": "Mortgage Calculator USA",
+    "category": "usa",
+    "description": "Estimate US mortgage payments, interest and total cost.",
+    "keywords": "mortgage calculator USA, house payment calculator"
+  },
+  {
+    "slug": "mortgage-affordability-calculator-usa",
+    "title": "Mortgage Affordability Calculator USA",
+    "category": "usa",
+    "description": "Estimate a potential home budget using income, debts and down payment.",
+    "keywords": "mortgage affordability calculator USA"
+  },
+  {
+    "slug": "401k-calculator",
+    "title": "401(k) Calculator",
+    "category": "usa",
+    "description": "Estimate 401(k) growth from contributions, employer match and returns.",
+    "keywords": "401k calculator, 401(k) retirement calculator"
+  },
+  {
+    "slug": "roth-ira-calculator",
+    "title": "Roth IRA Calculator",
+    "category": "usa",
+    "description": "Estimate Roth IRA growth from contributions and compound returns.",
+    "keywords": "Roth IRA calculator"
+  },
+  {
+    "slug": "traditional-ira-calculator",
+    "title": "Traditional IRA Calculator",
+    "category": "usa",
+    "description": "Estimate Traditional IRA growth and compare contribution scenarios.",
+    "keywords": "Traditional IRA calculator"
+  },
+  {
+    "slug": "us-income-tax-calculator",
+    "title": "US Income Tax Calculator",
+    "category": "usa",
+    "description": "Estimate US federal income tax under simplified assumptions.",
+    "keywords": "US income tax calculator, federal tax calculator"
+  },
+  {
+    "slug": "us-salary-calculator",
+    "title": "US Salary Take-Home Calculator",
+    "category": "usa",
+    "description": "Estimate take-home pay from salary using configurable assumptions.",
+    "keywords": "salary calculator USA, take home pay calculator"
+  },
+  {
+    "slug": "us-capital-gains-calculator",
+    "title": "US Capital Gains Tax Calculator",
+    "category": "usa",
+    "description": "Estimate US capital gains tax scenarios for educational planning.",
+    "keywords": "capital gains tax calculator USA"
+  },
+  {
+    "slug": "social-security-estimator",
+    "title": "Social Security Estimator",
+    "category": "usa",
+    "description": "Explore retirement income scenarios using configurable inputs.",
+    "keywords": "Social Security calculator, retirement income calculator"
+  },
+  {
+    "slug": "fire-calculator",
+    "title": "FIRE Calculator",
+    "category": "retirement",
+    "description": "Estimate a financial independence target and required savings.",
+    "keywords": "FIRE calculator, financial independence calculator"
+  },
+  {
+    "slug": "retirement-calculator",
+    "title": "Retirement Calculator",
+    "category": "retirement",
+    "description": "Estimate retirement corpus, income needs and savings gap.",
+    "keywords": "retirement calculator, retirement planning calculator"
+  },
+  {
+    "slug": "inflation-calculator",
+    "title": "Inflation Calculator",
+    "category": "global",
+    "description": "Estimate how inflation changes purchasing power over time.",
+    "keywords": "inflation calculator, purchasing power calculator"
+  },
+  {
+    "slug": "real-return-calculator",
+    "title": "Real Return Calculator",
+    "category": "global",
+    "description": "Calculate investment return after accounting for inflation.",
+    "keywords": "real return calculator, inflation adjusted return"
+  },
+  {
+    "slug": "currency-converter",
+    "title": "Currency Converter",
+    "category": "global",
+    "description": "Convert between currencies using user-supplied rates.",
+    "keywords": "currency converter, exchange rate calculator"
+  },
+  {
+    "slug": "net-worth-calculator",
+    "title": "Net Worth Calculator",
+    "category": "global",
+    "description": "Calculate assets minus liabilities and track net worth.",
+    "keywords": "net worth calculator"
+  },
+  {
+    "slug": "savings-goal-calculator",
+    "title": "Savings Goal Calculator",
+    "category": "global",
+    "description": "Calculate how much to save each month to reach a target.",
+    "keywords": "savings goal calculator"
+  },
+  {
+    "slug": "emergency-fund-calculator",
+    "title": "Emergency Fund Calculator",
+    "category": "global",
+    "description": "Estimate an emergency fund target from expenses and dependents.",
+    "keywords": "emergency fund calculator"
+  },
+  {
+    "slug": "debt-payoff-calculator",
+    "title": "Debt Payoff Calculator",
+    "category": "global",
+    "description": "Estimate payoff time and interest for debt repayment plans.",
+    "keywords": "debt payoff calculator, debt snowball calculator"
+  },
+  {
+    "slug": "credit-card-payoff-calculator",
+    "title": "Credit Card Payoff Calculator",
+    "category": "usa",
+    "description": "Estimate credit-card payoff time and interest from payment assumptions.",
+    "keywords": "credit card payoff calculator"
+  },
+  {
+    "slug": "rent-vs-buy-calculator",
+    "title": "Rent-vs-Buy Calculator",
+    "category": "global",
+    "description": "Compare simplified long-term costs of renting and buying.",
+    "keywords": "rent vs buy calculator"
+  },
+  {
+    "slug": "home-affordability-calculator",
+    "title": "Home Affordability Calculator",
+    "category": "global",
+    "description": "Estimate an affordable home price from income and financing assumptions.",
+    "keywords": "home affordability calculator"
+  },
+  {
+    "slug": "down-payment-calculator",
+    "title": "Down Payment Calculator",
+    "category": "global",
+    "description": "Calculate a target down payment and monthly savings requirement.",
+    "keywords": "down payment calculator"
+  },
+  {
+    "slug": "simple-interest-calculator",
+    "title": "Simple Interest Calculator",
+    "category": "global",
+    "description": "Calculate simple interest and maturity value.",
+    "keywords": "simple interest calculator"
+  },
+  {
+    "slug": "percentage-calculator",
+    "title": "Percentage Calculator",
+    "category": "global",
+    "description": "Solve common percentage increase, decrease and difference calculations.",
+    "keywords": "percentage calculator"
+  },
+  {
+    "slug": "discount-calculator",
+    "title": "Discount Calculator",
+    "category": "global",
+    "description": "Calculate sale price, discount amount and percentage.",
+    "keywords": "discount calculator"
+  },
+  {
+    "slug": "tip-calculator",
+    "title": "Tip Calculator",
+    "category": "global",
+    "description": "Calculate tips and split a bill across a group.",
+    "keywords": "tip calculator, bill split calculator"
+  },
+  {
+    "slug": "break-even-calculator",
+    "title": "Break-Even Calculator",
+    "category": "business",
+    "description": "Calculate break-even units and revenue from fixed and variable costs.",
+    "keywords": "break even calculator"
+  },
+  {
+    "slug": "profit-margin-calculator",
+    "title": "Profit Margin Calculator",
+    "category": "business",
+    "description": "Calculate gross margin, markup and profit.",
+    "keywords": "profit margin calculator, markup calculator"
+  },
+  {
+    "slug": "freelance-rate-calculator",
+    "title": "Freelance Rate Calculator",
+    "category": "business",
+    "description": "Estimate an hourly freelance rate from income goals and billable hours.",
+    "keywords": "freelance rate calculator"
+  },
+  {
+    "slug": "ad-revenue-calculator",
+    "title": "Website Ad Revenue Calculator",
+    "category": "business",
+    "description": "Model ad revenue using traffic, RPM and fill assumptions.",
+    "keywords": "AdSense calculator, ad revenue calculator"
+  },
+  {
+    "slug": "influencer-income-calculator",
+    "title": "Influencer Income Calculator",
+    "category": "business",
+    "description": "Model creator income across sponsorships and audience channels.",
+    "keywords": "influencer income calculator"
+  },
+  {
+    "slug": "crypto-profit-calculator",
+    "title": "Crypto Profit Calculator",
+    "category": "global",
+    "description": "Calculate profit or loss from crypto purchase and sale prices.",
+    "keywords": "crypto profit calculator"
+  },
+  {
+    "slug": "compound-interest-monthly",
+    "title": "Monthly Compound Interest Calculator",
+    "category": "investment",
+    "description": "Calculate monthly compounding growth.",
+    "keywords": "monthly compound interest calculator"
+  },
+  {
+    "slug": "future-value-calculator",
+    "title": "Future Value Calculator",
+    "category": "investment",
+    "description": "Calculate the future value of money using configurable returns.",
+    "keywords": "future value calculator"
+  },
+  {
+    "slug": "present-value-calculator",
+    "title": "Present Value Calculator",
+    "category": "investment",
+    "description": "Calculate the present value of a future amount.",
+    "keywords": "present value calculator"
+  },
+  {
+    "slug": "xirr-calculator",
+    "title": "XIRR Calculator",
+    "category": "investment",
+    "description": "Estimate annualized returns for irregular cash flows.",
+    "keywords": "XIRR calculator, XIRR return calculator"
+  }
+]

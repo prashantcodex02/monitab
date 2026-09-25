@@ -1,0 +1,60 @@
+{
+  "india": {
+    "name": "India",
+    "slug": "india",
+    "currency": "INR",
+    "intro": "India-focused calculators and practical money guides covering investing, tax, salary, loans and retirement.",
+    "tools": [
+      "sip-calculator",
+      "income-tax-calculator-india",
+      "salary-calculator-india",
+      "home-loan-emi-calculator",
+      "ppf-calculator",
+      "nps-calculator",
+      "gst-calculator",
+      "capital-gains-tax-calculator-india"
+    ]
+  },
+  "usa": {
+    "name": "United States",
+    "slug": "usa",
+    "currency": "USD",
+    "intro": "US-focused calculators for mortgages, retirement accounts, salary, taxes, capital gains and financial planning.",
+    "tools": [
+      "mortgage-calculator-usa",
+      "mortgage-affordability-calculator-usa",
+      "401k-calculator",
+      "roth-ira-calculator",
+      "us-income-tax-calculator",
+      "us-salary-calculator",
+      "us-capital-gains-calculator",
+      "credit-card-payoff-calculator"
+    ]
+  },
+  "uk": {
+    "name": "United Kingdom",
+    "slug": "uk",
+    "currency": "GBP",
+    "intro": "UK-focused money resources with a foundation for salary, investing, retirement and household planning.",
+    "tools": [
+      "compound-interest-calculator",
+      "inflation-calculator",
+      "retirement-calculator",
+      "net-worth-calculator",
+      "savings-goal-calculator"
+    ]
+  },
+  "canada": {
+    "name": "Canada",
+    "slug": "canada",
+    "currency": "CAD",
+    "intro": "Canada-focused financial planning resources for savings, retirement, mortgages and household decisions.",
+    "tools": [
+      "mortgage-calculator-usa",
+      "retirement-calculator",
+      "inflation-calculator",
+      "net-worth-calculator",
+      "savings-goal-calculator"
+    ]
+  }
+}

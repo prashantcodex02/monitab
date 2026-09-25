@@ -1,0 +1,170 @@
+[
+  {
+    "slug": "sip-guide",
+    "title": "SIP Investing Guide: How Systematic Investment Plans Work",
+    "description": "A practical guide to SIPs, compounding, step-up contributions, return assumptions and common mistakes.",
+    "keywords": "SIP calculator, SIP investment, systematic investment plan",
+    "category": "investment",
+    "points": [
+      "Start with the SIP calculator to model monthly contributions and time.",
+      "Returns are estimates, not guarantees. Compare several return assumptions rather than relying on one number.",
+      "A step-up SIP can model increasing contributions as income rises.",
+      "Use an inflation calculator to understand the future purchasing power of the corpus.",
+      "Review fees, taxes and product-specific rules before investing."
+    ]
+  },
+  {
+    "slug": "home-loan-guide",
+    "title": "Home Loan EMI Guide: Understand EMI, Interest and Prepayment",
+    "description": "Learn how home-loan EMI is calculated, how tenure changes interest cost and how prepayments can change the schedule.",
+    "keywords": "home loan EMI, EMI calculator, home loan interest",
+    "category": "loans",
+    "points": [
+      "EMI depends on principal, interest rate and tenure.",
+      "A longer tenure generally lowers the monthly payment but can increase total interest.",
+      "Use amortization and prepayment scenarios before making a large loan decision.",
+      "Rates and lender terms can change; verify current terms with the lender.",
+      "Do not use a calculator as a substitute for lender eligibility or legal advice."
+    ]
+  },
+  {
+    "slug": "compound-interest-guide",
+    "title": "Compound Interest Explained With Real Examples",
+    "description": "Understand compounding, time, contributions and why small changes can matter over long horizons.",
+    "keywords": "compound interest calculator, compound interest formula, compounding",
+    "category": "investment",
+    "points": [
+      "Compound growth reinvests prior gains into the base used for future growth.",
+      "Time and contribution frequency affect outcomes.",
+      "Nominal returns are not the same as inflation-adjusted returns.",
+      "Use scenarios instead of treating one projected value as certain.",
+      "Taxes, fees and market volatility can materially change real-world results."
+    ]
+  },
+  {
+    "slug": "retirement-guide",
+    "title": "Retirement Planning Guide: Estimate Your Financial Independence Number",
+    "description": "A practical framework for estimating retirement needs using spending, inflation, returns, current savings and time.",
+    "keywords": "retirement calculator, FIRE calculator, retirement planning",
+    "category": "retirement",
+    "points": [
+      "Start with expected spending rather than an arbitrary corpus target.",
+      "Inflation can materially increase future expenses.",
+      "Model conservative, base and optimistic return scenarios.",
+      "Include healthcare, taxes and one-off expenses in your planning.",
+      "Review the plan periodically as income, spending and markets change."
+    ]
+  },
+  {
+    "slug": "income-tax-india-guide",
+    "title": "Income Tax Calculator India: How to Think About Tax Estimates",
+    "description": "Understand tax estimates, salary inputs, deductions and why tax calculations must be checked against current rules.",
+    "keywords": "income tax calculator India, salary tax India, tax calculator",
+    "category": "india",
+    "points": [
+      "Tax rules change, so calculators should show their assumptions and review date.",
+      "Taxable income is not always the same as gross salary.",
+      "Deductions and exemptions depend on the taxpayer and applicable regime.",
+      "Use official government sources for final filing decisions.",
+      "MoniTab provides educational estimates, not individualized tax advice."
+    ]
+  },
+  {
+    "slug": "401k-guide",
+    "title": "401(k) Calculator Guide: Contributions, Employer Match and Growth",
+    "description": "Understand how contribution rates, employer matching, time and investment returns affect a 401(k) projection.",
+    "keywords": "401k calculator, 401(k) retirement calculator, employer match",
+    "category": "usa",
+    "points": [
+      "Employer match rules differ by plan.",
+      "Contribution limits can change by tax year.",
+      "Investment returns are assumptions rather than promises.",
+      "Taxes depend on account type and personal circumstances.",
+      "Verify current limits with IRS and plan documents."
+    ]
+  },
+  {
+    "slug": "mortgage-usa-guide",
+    "title": "US Mortgage Calculator Guide: Principal, Interest, Taxes and Affordability",
+    "description": "Understand the components of a US mortgage payment and how affordability assumptions affect a home-buying scenario.",
+    "keywords": "mortgage calculator USA, mortgage affordability, home payment",
+    "category": "usa",
+    "points": [
+      "Principal and interest are only part of the housing cost.",
+      "Property taxes, insurance, HOA fees and closing costs can matter.",
+      "Rates and lender qualification criteria vary.",
+      "Affordability should be evaluated against the complete household budget.",
+      "Use lender disclosures and official sources for final decisions."
+    ]
+  },
+  {
+    "slug": "capital-gains-india-guide",
+    "title": "Capital Gains Tax in India: A Practical Calculator Guide",
+    "description": "Understand how purchase price, sale price, holding period and applicable tax rules can affect a capital-gains estimate.",
+    "keywords": "capital gains tax India, LTCG, STCG, tax calculator",
+    "category": "india",
+    "points": [
+      "Tax treatment depends on asset type and applicable law.",
+      "Holding periods and exemptions can change the result.",
+      "Do not assume historical rules remain current.",
+      "Keep transaction records and review official guidance.",
+      "Professional advice may be appropriate for complex cases."
+    ]
+  },
+  {
+    "slug": "inflation-guide",
+    "title": "Inflation Calculator Guide: What Will Money Be Worth Later?",
+    "description": "Learn how inflation changes purchasing power and how to model real returns and future expenses.",
+    "keywords": "inflation calculator, purchasing power, real return",
+    "category": "global",
+    "points": [
+      "Inflation compounds over time too.",
+      "A future nominal amount can buy less than the same amount today.",
+      "Use real-return calculations to separate growth from inflation.",
+      "Actual inflation differs across countries and households.",
+      "Scenario analysis is more useful than a single forecast."
+    ]
+  },
+  {
+    "slug": "net-worth-guide",
+    "title": "How to Calculate Net Worth and Track It Over Time",
+    "description": "A simple framework for assets, liabilities, net worth and progress tracking.",
+    "keywords": "net worth calculator, personal net worth, assets liabilities",
+    "category": "global",
+    "points": [
+      "Net worth is assets minus liabilities.",
+      "Track liquid and illiquid assets separately when useful.",
+      "Include high-interest debt and other obligations.",
+      "Consistency matters more than perfect valuation precision.",
+      "Avoid sharing sensitive account details online."
+    ]
+  },
+  {
+    "slug": "freelance-rate-guide",
+    "title": "Freelance Rate Calculator: Set a Sustainable Hourly or Project Rate",
+    "description": "Estimate a freelance rate using target income, expenses, taxes, non-billable time and savings goals.",
+    "keywords": "freelance rate calculator, hourly rate, freelancer pricing",
+    "category": "business",
+    "points": [
+      "Not every working hour is billable.",
+      "Business expenses reduce take-home income.",
+      "Taxes and benefits should be included in planning.",
+      "Price based on value and scope, not only hours.",
+      "Review your rate as demand and costs change."
+    ]
+  },
+  {
+    "slug": "adsense-revenue-guide",
+    "title": "Website Ad Revenue Calculator: Estimate AdSense Revenue Scenarios",
+    "description": "Understand how pageviews, geography, RPM and ad viewability affect a website advertising estimate.",
+    "keywords": "AdSense revenue calculator, website ad revenue, RPM",
+    "category": "business",
+    "points": [
+      "Ad revenue varies by geography, niche, season and advertiser demand.",
+      "RPM is a scenario metric, not a guaranteed payout.",
+      "User experience and policy compliance matter.",
+      "Do not encourage invalid clicks or impressions.",
+      "Use several traffic and RPM scenarios for planning."
+    ]
+  }
+]

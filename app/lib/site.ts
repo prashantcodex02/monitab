@@ -1,0 +1,1 @@
+export const SITE_URL="https://monitab.com"; export const SITE_NAME="MoniTab"; export const DEFAULT_DESC="Free financial calculators, practical money guides and original research for India, the USA, UK and beyond.";

@@ -1,0 +1,200 @@
+[
+  {
+    "base": "sip-calculator",
+    "slug": "5000-10-years",
+    "title": "\u20b95,000 SIP for 10 Years Calculator",
+    "amount": 5000,
+    "years": 10,
+    "rate": 12,
+    "description": "Explore an illustrative 5,000 per month SIP scenario over 10 years using multiple return assumptions."
+  },
+  {
+    "base": "sip-calculator",
+    "slug": "5000-20-years",
+    "title": "\u20b95,000 SIP for 20 Years Calculator",
+    "amount": 5000,
+    "years": 20,
+    "rate": 12,
+    "description": "Explore an illustrative 5,000 per month SIP scenario over 20 years using multiple return assumptions."
+  },
+  {
+    "base": "sip-calculator",
+    "slug": "5000-30-years",
+    "title": "\u20b95,000 SIP for 30 Years Calculator",
+    "amount": 5000,
+    "years": 30,
+    "rate": 12,
+    "description": "Explore an illustrative 5,000 per month SIP scenario over 30 years using multiple return assumptions."
+  },
+  {
+    "base": "sip-calculator",
+    "slug": "10000-10-years",
+    "title": "\u20b910,000 SIP for 10 Years Calculator",
+    "amount": 10000,
+    "years": 10,
+    "rate": 12,
+    "description": "Explore an illustrative 10,000 per month SIP scenario over 10 years using multiple return assumptions."
+  },
+  {
+    "base": "sip-calculator",
+    "slug": "10000-20-years",
+    "title": "\u20b910,000 SIP for 20 Years Calculator",
+    "amount": 10000,
+    "years": 20,
+    "rate": 12,
+    "description": "Explore an illustrative 10,000 per month SIP scenario over 20 years using multiple return assumptions."
+  },
+  {
+    "base": "sip-calculator",
+    "slug": "10000-30-years",
+    "title": "\u20b910,000 SIP for 30 Years Calculator",
+    "amount": 10000,
+    "years": 30,
+    "rate": 12,
+    "description": "Explore an illustrative 10,000 per month SIP scenario over 30 years using multiple return assumptions."
+  },
+  {
+    "base": "sip-calculator",
+    "slug": "25000-10-years",
+    "title": "\u20b925,000 SIP for 10 Years Calculator",
+    "amount": 25000,
+    "years": 10,
+    "rate": 12,
+    "description": "Explore an illustrative 25,000 per month SIP scenario over 10 years using multiple return assumptions."
+  },
+  {
+    "base": "sip-calculator",
+    "slug": "25000-20-years",
+    "title": "\u20b925,000 SIP for 20 Years Calculator",
+    "amount": 25000,
+    "years": 20,
+    "rate": 12,
+    "description": "Explore an illustrative 25,000 per month SIP scenario over 20 years using multiple return assumptions."
+  },
+  {
+    "base": "sip-calculator",
+    "slug": "25000-30-years",
+    "title": "\u20b925,000 SIP for 30 Years Calculator",
+    "amount": 25000,
+    "years": 30,
+    "rate": 12,
+    "description": "Explore an illustrative 25,000 per month SIP scenario over 30 years using multiple return assumptions."
+  },
+  {
+    "base": "sip-calculator",
+    "slug": "50000-10-years",
+    "title": "\u20b950,000 SIP for 10 Years Calculator",
+    "amount": 50000,
+    "years": 10,
+    "rate": 12,
+    "description": "Explore an illustrative 50,000 per month SIP scenario over 10 years using multiple return assumptions."
+  },
+  {
+    "base": "sip-calculator",
+    "slug": "50000-20-years",
+    "title": "\u20b950,000 SIP for 20 Years Calculator",
+    "amount": 50000,
+    "years": 20,
+    "rate": 12,
+    "description": "Explore an illustrative 50,000 per month SIP scenario over 20 years using multiple return assumptions."
+  },
+  {
+    "base": "sip-calculator",
+    "slug": "50000-30-years",
+    "title": "\u20b950,000 SIP for 30 Years Calculator",
+    "amount": 50000,
+    "years": 30,
+    "rate": 12,
+    "description": "Explore an illustrative 50,000 per month SIP scenario over 30 years using multiple return assumptions."
+  },
+  {
+    "base": "home-loan-emi-calculator",
+    "slug": "20-lakh-home-loan",
+    "title": "\u20b920 Lakh Home Loan EMI Calculator",
+    "amount": 2000000,
+    "years": 20,
+    "rate": 8.5,
+    "description": "Estimate EMI and total interest for a \u20b920 lakh home loan under illustrative assumptions."
+  },
+  {
+    "base": "home-loan-emi-calculator",
+    "slug": "30-lakh-home-loan",
+    "title": "\u20b930 Lakh Home Loan EMI Calculator",
+    "amount": 3000000,
+    "years": 20,
+    "rate": 8.5,
+    "description": "Estimate EMI and total interest for a \u20b930 lakh home loan under illustrative assumptions."
+  },
+  {
+    "base": "home-loan-emi-calculator",
+    "slug": "50-lakh-home-loan",
+    "title": "\u20b950 Lakh Home Loan EMI Calculator",
+    "amount": 5000000,
+    "years": 20,
+    "rate": 8.5,
+    "description": "Estimate EMI and total interest for a \u20b950 lakh home loan under illustrative assumptions."
+  },
+  {
+    "base": "home-loan-emi-calculator",
+    "slug": "75-lakh-home-loan",
+    "title": "\u20b975 Lakh Home Loan EMI Calculator",
+    "amount": 7500000,
+    "years": 20,
+    "rate": 8.5,
+    "description": "Estimate EMI and total interest for a \u20b975 lakh home loan under illustrative assumptions."
+  },
+  {
+    "base": "home-loan-emi-calculator",
+    "slug": "100-lakh-home-loan",
+    "title": "\u20b9100 Lakh Home Loan EMI Calculator",
+    "amount": 10000000,
+    "years": 20,
+    "rate": 8.5,
+    "description": "Estimate EMI and total interest for a \u20b9100 lakh home loan under illustrative assumptions."
+  },
+  {
+    "base": "salary-calculator-india",
+    "slug": "50000-salary-india",
+    "title": "\u20b950,000 Salary Calculator India",
+    "amount": 50000,
+    "years": 1,
+    "rate": 0,
+    "description": "Explore an illustrative take-home salary scenario for \u20b950,000 monthly gross pay in India."
+  },
+  {
+    "base": "salary-calculator-india",
+    "slug": "75000-salary-india",
+    "title": "\u20b975,000 Salary Calculator India",
+    "amount": 75000,
+    "years": 1,
+    "rate": 0,
+    "description": "Explore an illustrative take-home salary scenario for \u20b975,000 monthly gross pay in India."
+  },
+  {
+    "base": "salary-calculator-india",
+    "slug": "100000-salary-india",
+    "title": "\u20b9100,000 Salary Calculator India",
+    "amount": 100000,
+    "years": 1,
+    "rate": 0,
+    "description": "Explore an illustrative take-home salary scenario for \u20b9100,000 monthly gross pay in India."
+  },
+  {
+    "base": "salary-calculator-india",
+    "slug": "150000-salary-india",
+    "title": "\u20b9150,000 Salary Calculator India",
+    "amount": 150000,
+    "years": 1,
+    "rate": 0,
+    "description": "Explore an illustrative take-home salary scenario for \u20b9150,000 monthly gross pay in India."
+  },
+  {
+    "base": "salary-calculator-india",
+    "slug": "200000-salary-india",
+    "title": "\u20b9200,000 Salary Calculator India",
+    "amount": 200000,
+    "years": 1,
+    "rate": 0,
+    "description": "Explore an illustrative take-home salary scenario for \u20b9200,000 monthly gross pay in India."
+  }
+]

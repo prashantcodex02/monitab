@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "sip-10000-20-years",
+    "title": "\u20b910,000 SIP for 20 Years: Scenario Analysis",
+    "description": "A scenario-based look at monthly investing over 20 years under multiple return assumptions.",
+    "category": "investment"
+  },
+  {
+    "slug": "home-loan-50-lakh",
+    "title": "\u20b950 Lakh Home Loan EMI: Rate and Tenure Scenarios",
+    "description": "Compare EMI and total interest across common rate and tenure assumptions.",
+    "category": "loans"
+  },
+  {
+    "slug": "retire-1-crore",
+    "title": "How Long Could \u20b91 Crore Last? A Scenario Framework",
+    "description": "A planning framework using spending, inflation and return assumptions.",
+    "category": "retirement"
+  },
+  {
+    "slug": "india-vs-usa-salary",
+    "title": "Salary Comparison: Why Gross Pay Is Not the Whole Story",
+    "description": "A framework for comparing salary, taxes, cost of living and benefits across countries.",
+    "category": "global"
+  },
+  {
+    "slug": "inflation-1-lakh",
+    "title": "What Could \u20b91 Lakh Today Be Worth in the Future?",
+    "description": "Illustrative purchasing-power scenarios under different inflation assumptions.",
+    "category": "global"
+  },
+  {
+    "slug": "prepay-vs-invest",
+    "title": "Loan Prepayment vs Investing: A Scenario Framework",
+    "description": "Compare the mechanics of guaranteed interest savings with uncertain investment returns.",
+    "category": "loans"
+  }
+]
